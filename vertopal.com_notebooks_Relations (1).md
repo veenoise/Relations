@@ -359,7 +359,7 @@ else:
 ::: {#58009331-a95a-4bdb-8845-dfda36c6b2c0 .cell .markdown}
 ## This is the end of the discussion. {#this-is-the-end-of-the-discussion}
 
-### You can use the code below to determine which property/properties a Relation posses. You can copy the code below and paste it [here](https://www.programiz.com/python-programming/online-compiler/). {#you-can-use-the-code-below-to-determine-which-propertyproperties-a-relation-posses-you-can-copy-the-code-below-and-paste-it-here}
+### You can use the code below to determine which property/properties a Relation posses. You can copy the code below and paste it here. {#you-can-use-the-code-below-to-determine-which-propertyproperties-a-relation-posses-you-can-copy-the-code-below-and-paste-it-here}
 :::
 
 ::: {#c2740d35-53a8-448d-9731-cbbbab571030 .cell .code execution_count="18" trusted="true"}
